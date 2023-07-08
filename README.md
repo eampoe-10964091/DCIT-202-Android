@@ -13,7 +13,7 @@ ID'S AND USERNAMES ARE BELOW:
 9. 10965537   -   https://github.com/gmwdjab
 10. 10976498   -   https://github.com/Dele20
 
-
+# Below is the description of the project
 
 # Journal App
 

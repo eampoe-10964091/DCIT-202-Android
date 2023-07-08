@@ -1,0 +1,143 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sea_blue"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txtCoverPageTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/cover_page_title"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtWelcomeTitle"
+        android:layout_width="204dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtCoverPageTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="@string/welcome_title"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtWelcomeTitle"
+        android:layout_marginTop="16dp"
+        android:background="@android:color/white"
+        android:hint="@string/title_hint"
+        android:padding="8dp"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTitle"
+        android:layout_marginTop="16dp"
+        android:background="@android:color/white"
+        android:hint="@string/content_hint"
+        android:padding="8dp"
+        android:minLines="8"
+        android:gravity="top"
+        android:importantForAutofill="yes" />
+
+    <EditText
+        android:id="@+id/editDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editContent"
+        android:layout_marginTop="145dp"
+        android:background="@android:color/white"
+        android:hint="@string/datetime_hint"
+        android:inputType="datetime"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/txtPageNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnBackward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/txtPageNumber"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/backward"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnForward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/txtPageNumber"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_toEndOf="@id/btnBackward"
+        android:text="@string/forward"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editDateTime"
+        android:layout_marginTop="16dp"
+        android:text="@string/save"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnSaveAs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editDateTime"
+        android:layout_marginTop="16dp"
+        android:layout_toEndOf="@id/btnSave"
+        android:text="@string/save_as"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnSaveAndBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnSave"
+        android:layout_marginTop="16dp"
+        android:text="@string/save_and_back"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnSaveAndExit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnSave"
+        android:layout_marginTop="16dp"
+        android:layout_toEndOf="@id/btnSaveAndBack"
+        android:text="@string/save_and_exit"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnToggleDarkMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnSaveAndBack"
+        android:layout_marginTop="16dp"
+        android:text="@string/toggle_dark_mode"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

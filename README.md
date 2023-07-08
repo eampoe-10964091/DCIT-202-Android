@@ -11,7 +11,7 @@ ID'S AND USERNAMES ARE BELOW:
 7. 10972444   -   https://github.com/10961746
 8. 10964194   -   https://github.com/Gobarshev
 9. 10965537   -   https://github.com/gmwdjab
-10. https://github.com/Dele20
+10.10976498   -   https://github.com/Dele20
 
 
 # Journal App

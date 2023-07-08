@@ -5,7 +5,7 @@ ID'S AND USERNAMES ARE BELOW:
 1. 10964091   -   https://github.com/eampoe-10964091
 2. 10978912   -   https://github.com/asareemmanuelboamah
 3. 10972528   -   https://github.com/samkwesiprince
-4. l10945190  -   https://github.com/Manuel10945190
+4. 10945190  -   https://github.com/Manuel10945190
 5. 10956951   -   https://github.com/10956951
 6. 10961746   -   https://github.com/10961746
 7. 10972444   -   https://github.com/10961746

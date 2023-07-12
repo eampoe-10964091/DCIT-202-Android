@@ -51,7 +51,6 @@ The app is structured as follows:
 - Android SDK (minimum version 21)
 
 ## Installation
-
 1. Clone the repository or download the source code.
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.

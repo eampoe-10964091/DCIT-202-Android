@@ -48,6 +48,7 @@ The app is structured as follows:
 - Dark mode toggle
 
 
+
 ## Prerequisites
 
 - Android Studio (version 2022.1.0)

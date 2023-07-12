@@ -40,7 +40,6 @@ The app is structured as follows:
 
 
 ## Features
-
 - Zoom functionality for a specific view or layout
 - Create, edit, and save journal entries
 - Navigate between journal entries

@@ -21,12 +21,15 @@ The contributionss of every group members can be found at the bottom.
 # Below is the description of the project
 
 # Journal App
+
 This is a simple journal app developed by Group 8.
 
 ## Overview
+
 The Journal App allows users to create and manage journal entries. It provides a user-friendly interface for writing, saving, and navigating through journal entries. Users can also customize the app's settings, such as font size and dark mode.
 
 ## Code Structure
+
 The app is structured as follows:
 
 - `MainActivity.java`: This is the main activity of the app. It handles the zooming functionality and navigation between screens.
@@ -35,15 +38,20 @@ The app is structured as follows:
 - `JournalActivity.java`: The activity for the main journal page. This handles the creation, editing, and saving of journal entries, as well as navigation between entries and toggling dark mode.
 - `activity_journal.xml`: The XML layout file for the journal activity. It includes views for the title, content, date/time, page navigation buttons, and other actions.
 
+
 ## Features
+
 - Zoom functionality for a specific view or layout
 - Create, edit, and save journal entries
 - Navigate between journal entries
 - Dark mode toggle
 
+
 ## Prerequisites
+
 - Android Studio (version 2022.1.0)
 - Android SDK (minimum version 21)
+
 
 ## Installation
 1. Clone the repository or download the source code.
@@ -52,6 +60,7 @@ The app is structured as follows:
 
 
 ## Usage
+
 
 
 ### MainActivity.java

@@ -36,7 +36,6 @@ The app is structured as follows:
 - `activity_journal.xml`: The XML layout file for the journal activity. It includes views for the title, content, date/time, page navigation buttons, and other actions.
 
 ## Features
-
 - Zoom functionality for a specific view or layout
 - Create, edit, and save journal entries
 - Navigate between journal entries

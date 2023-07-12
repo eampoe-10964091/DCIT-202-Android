@@ -30,7 +30,6 @@ This is a simple journal app developed by Group 8.
 The Journal App allows users to create and manage journal entries. It provides a user-friendly interface for writing, saving, and navigating through journal entries. Users can also customize the app's settings, such as font size and dark mode.
 
 ## Code Structure
-
 The app is structured as follows:
 
 - `MainActivity.java`: This is the main activity of the app. It handles the zooming functionality and navigation between screens.

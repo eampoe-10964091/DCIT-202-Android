@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Group 8 Journal</string>
+    <string name="page_number">Page %d</string>
+    <string name="cover_page_title">Cover Page Title</string>
+    <string name="welcome_message">Welcome to My Journal!</string>
+    <string name="welcome_title">Welcome to My Journal</string>
+    <string name="title_hint">Enter Title</string>
+    <string name="content_hint">Enter Content</string>
+    <string name="datetime_hint">Enter Date and Time</string>
+    <string name="backward">Backward</string>
+    <string name="forward">Forward</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As</string>
+    <string name="save_and_back">Save and Back</string>
+    <string name="save_and_exit">Save and Exit</string>
+    <string name="toggle_dark_mode">Toggle Dark Mode</string>
+
+</resources>

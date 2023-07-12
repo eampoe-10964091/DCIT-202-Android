@@ -25,7 +25,6 @@ The contributionss of every group members can be found at the bottom.
 This is a simple journal app developed by Group 8.
 
 ## Overview
-
 The Journal App allows users to create and manage journal entries. It provides a user-friendly interface for writing, saving, and navigating through journal entries. Users can also customize the app's settings, such as font size and dark mode.
 
 ## Code Structure

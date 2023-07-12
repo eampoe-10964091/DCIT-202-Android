@@ -88,6 +88,7 @@ This class represents a journal entry. It encapsulates the title, content, and d
 
 - `JournalEntry(String title, String content, String dateTime)`: Creates a new journal entry with the specified title, content, and date/time.
 
+
 #### Getters and Setters
 
 - `getTitle()`: Returns the title of the journal entry.

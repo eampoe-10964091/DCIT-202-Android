@@ -68,6 +68,7 @@ This is the main activity class responsible for initializing the app and handlin
 
 - `onCreate(Bundle savedInstanceState)`: This method is called when the activity is created. It sets up the zoom functionality and touch event handling.
 
+
 #### Inner Classes
 
 - `ScaleListener`: This class extends `ScaleGestureDetector.SimpleOnScaleGestureListener` and overrides the `onScale()` method to handle scaling events. It applies the scaling factor to the view or layout.

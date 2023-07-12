@@ -56,6 +56,7 @@ The app is structured as follows:
 
 ## Usage
 
+
 ### MainActivity.java
 
 This is the main activity class responsible for initializing the app and handling touch events for zooming.

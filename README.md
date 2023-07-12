@@ -87,6 +87,7 @@ This XML layout file defines the main activity's UI components. It contains a zo
 This class represents a journal entry. It encapsulates the title, content, and date/time of an entry.
 
 
+
 #### Constructors
 
 - `JournalEntry(String title, String content, String dateTime)`: Creates a new journal entry with the specified title, content, and date/time.

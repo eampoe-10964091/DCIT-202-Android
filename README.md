@@ -15,6 +15,7 @@ ID'S AND USERNAMES ARE BELOW:
 
 The contributionss of every group members can be found at the bottom.
 
+
 # Below is the description of the project
 
 # Journal App

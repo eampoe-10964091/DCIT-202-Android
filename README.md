@@ -80,6 +80,7 @@ This is the main activity class responsible for initializing the app and handlin
 
 This XML layout file defines the main activity's UI components. It contains a zoomable view and other UI elements for the initial screen.
 
+
 ### JournalEntry.java
 
 This class represents a journal entry. It encapsulates the title, content, and date/time of an entry.

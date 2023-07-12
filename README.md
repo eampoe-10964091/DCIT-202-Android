@@ -64,7 +64,6 @@ This is the main activity class responsible for initializing the app and handlin
 
 
 #### Inner Classes
-
 - `ScaleListener`: This class extends `ScaleGestureDetector.SimpleOnScaleGestureListener` and overrides the `onScale()` method to handle scaling events. It applies the scaling factor to the view or layout.
 
 ### activity_main.xml

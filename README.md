@@ -23,7 +23,6 @@ The contributionss of every group members can be found at the bottom.
 
 
 # Journal App
-
 This is a simple journal app developed by Group 8.
 
 ## Overview

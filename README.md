@@ -126,6 +126,7 @@ This activity class represents the journal screen. It allows users to create, ed
 - `onOptionsItemSelected(MenuItem item)`: Handles options menu item selections.
 - `onBackPressed()`: Handles the back button press event.
 
+
 ### activity_journal.xml
 
 This XML layout file defines the journal activity's UI components. It includes input fields for the title, content, and date/time of a journal entry, navigation buttons, and save options.

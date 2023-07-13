@@ -71,6 +71,7 @@ The app is structured as follows:
 This is the main activity class responsible for initializing the app and handling touch events for zooming.
 
 
+
 #### Methods
 
 - `onCreate(Bundle savedInstanceState)`: This method is called when the activity is created. It sets up the zoom functionality and touch event handling.

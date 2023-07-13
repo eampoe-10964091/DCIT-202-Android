@@ -49,7 +49,6 @@ The app is structured as follows:
 
 
 ## Prerequisites
-
 - Android Studio (version 2022.1.0)
 - Android SDK (minimum version 21)
 

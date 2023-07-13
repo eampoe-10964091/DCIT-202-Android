@@ -30,7 +30,6 @@ The Journal App allows users to create and manage journal entries. It provides a
 
 
 ## Code Structure
-
 The app is structured as follows:
 
 - `MainActivity.java`: This is the main activity of the app. It handles the zooming functionality and navigation between screens.

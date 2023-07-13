@@ -32,6 +32,7 @@ The Journal App allows users to create and manage journal entries. It provides a
 ## Code Structure
 The app is structured as follows:
 
+
 - `MainActivity.java`: This is the main activity of the app. It handles the zooming functionality and navigation between screens.
 - `activity_main.xml`: The XML layout file for the main activity. It includes the cover page and welcome screen views.
 - `JournalEntry.java`: A model class representing a journal entry. It contains properties for the title, content, and date/time of the entry.
